@@ -1,0 +1,11 @@
+#name{
+    border: 1px dashed blueviolet;
+}
+
+#date{
+    font-style: italic
+}
+
+#place{
+    background-color: #FF7F50;
+}
